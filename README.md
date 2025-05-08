@@ -1,13 +1,6 @@
 # Open-Source-Intelligence-Resources
-Compilation of Resources from TCM's OSINT Course
 
 ### General Links
-
-TCM-Security: https://tcm-sec.com/
-
-Links to Course:
-* Udemy: https://www.udemy.com/course/osint-fundamentals/
-* TCM-Academy: https://academy.tcm-sec.com/p/osint-fundamentals
 
 Twitter: https://twitter.com/thecybermentor
 
