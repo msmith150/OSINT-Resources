@@ -1,4 +1,6 @@
-## Dark Web Search Engines
+# Dark Web Resources
+
+### Dark Web Search Engines
 
 Katana
 
@@ -8,13 +10,13 @@ Ahmia
 
 DarkSearch
 
-## Tools to get Onion links
+### Tools to get Onion links
 
 Hunchly
 
 H-Indexer
 
-## Tools to Scan Onion Links
+### Tools to Scan Onion Links
 
 OnionScan
 
@@ -22,7 +24,7 @@ Onioff
 
 Onion-nmap
 
-## Tools to scrape data
+### Tools to scrape data
 
 TorBot
 
@@ -30,7 +32,7 @@ TorCrawl
 
 OnionIngestor
 
-## Tools to create data collection architecture
+### Tools to create data collection architecture
 
 Scrapy
 
