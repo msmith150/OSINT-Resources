@@ -38,7 +38,7 @@ Fake Name Generator - https://www.fakenamegenerator.com/
 
 This Person Does not Exist - https://www.thispersondoesnotexist.com/
 
-Privacy.com - https://privacy.com/join/LADFC *$5 credit given on signup
+Privacy.com - https://privacy.com/
 
 ### Search Engine OSINT
 
@@ -60,13 +60,49 @@ DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/resu
 
 Baidu - http://www.baidu.com/
 
+Search Code - https://searchcode.com/ 
+
+Dork Search - https://dorksearch.com/ 
+
+https://usersearch.org/
+
+Wayback Machine - https://archive.org/web/
+
+ChatGPT - https://chatgpt.com/
+
+Google Gemini - https://gemini.google.com/app
+
+Claude AI - https://claude.ai/
+
+Microsoft Copilot - https://copilot.microsoft.com 
+
+Perplexity AI - https://www.perplexity.ai/ 
+
+Grok AI - https://grok.com/ 
+
 ### Image OSINT
 
 Google Image Search - https://images.google.com
 
-Yandex - https://yandex.com
+Yandex - https://yandex.com/images/
 
 TinEye - https://tineye.com
+
+Bing - https://www.bing.com/images/
+
+FotoForensics - https://fotoforensics.com/ 
+
+Profile Picture Tool - https://profileimageintel.com/ 
+
+Jimpl - https://jimpl.com/
+
+Exif Viewers - https://exifviewers.com/ 
+
+GeoGuessr - https://www.geoguessr.com
+
+GeoGuessr - The Top Tips, Tricks and Techniques - https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
+
+Geospy AI - https://geospy.ai/ 
 
 ### Email OSINT
 
@@ -78,9 +114,17 @@ VoilaNorbert - https://www.voilanorbert.com/
 
 Email Hippo - https://tools.verifyemailaddress.io/
 
+Email Hippo - https://tools.emailhippo.com/
+
+Epieos - https://epieos.com/ 
+
 Email Checker - https://email-checker.net/validate
 
 Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
+
+Clearbit - https://clearbit.com/resources/tools/connect
+
+IntelligenceX - https://intelx.io/ 
 
 ### Password OSINT 
 
@@ -103,6 +147,20 @@ NameChk - https://namechk.com/
 WhatsMyName - https://whatsmyname.app/
 
 NameCheckup - https://namecheckup.com/
+
+### Phone Numbers
+
+Phone Numbers
+
+TrueCaller - https://www.truecaller.com/
+
+CallerID Test - https://calleridtest.com/
+
+Infobel - https://infobel.com/
+
+Epieos - https://epieos.com/ 
+
+Phonebook.cz - https://phonebook.cz/ (need intelx.io login)
 
 ### People OSINT
 
@@ -131,6 +189,18 @@ TrueCaller - https://www.truecaller.com/
 CallerID Test - https://calleridtest.com/
 
 Infobel - https://infobel.com/
+
+Melissa Lookups - https://lookups.melissa.com/home/ 
+
+Pipl - https://pipl.com/ 
+
+Family Search - https://www.familysearch.org/en/united-states/ 
+
+Been Verified - https://www.beenverified.com/ 
+
+Lullar - http://www.lullar.com/
+
+Social Catfish - https://socialcatfish.com/ 
 
 ### Social Media OSINT
 
@@ -166,6 +236,28 @@ ImgInn - https://imginn.com/
 
 Snapchat Maps - https://map.snapchat.com
 
+R00m101 (Reddit) - https://r00m101.com/ 
+
+Social Blade - https://socialblade.com/ 
+
+Tweet Map - https://www.heavy.ai/demos/tweetmap 
+
+Google Social Search - https://www.social-searcher.com/google-social-search/ 
+
+Social Searcher - https://www.social-searcher.com/ 
+
+Followerwonk - https://followerwonk.com/ 
+
+4chan search - https://4chansearch.com/ 
+
+Inflact - https://inflact.com/ 
+
+Anonstories - https://anonstories.com/ 
+
+Feedly - https://feedly.com/
+
+Hootsuite - https://www.hootsuite.com/
+
 ### Website OSINT
 
 BuiltWith - https://builtwith.com/
@@ -197,6 +289,14 @@ Wayback Machine - https://web.archive.org/
 Page X-ray - https://pagexray.com/
 
 Blacklight - https://themarkup.org/blacklight 
+
+Twiiit - https://twiiit.com/
+
+you get signal - https://www.yougetsignal.com/ 
+
+IntelligenceX - https://intelx.io/ 
+
+Web Reacher - https://webbreacher.com/
 
 ### Business OSINT
 
@@ -242,178 +342,72 @@ Alethe Denis - https://twitter.com/AletheDenis
 
 Joe Gray - https://twitter.com/C_3PJoe
 
-IntelTechniques - https://inteltechniques.com/
+ICDTA - https://icdta.org/ 
 
-### Websites for OSINT
+My OSINT Training - https://tools.myosint.training/
 
-https://geospy.ai/
+My OSINT Training Resources - https://www.myosint.training/pages/free-resources 
 
-https://builtwith.com/
+My OSINT Training Newsletter - https://www.osintnewsletter.osint-jobs.com/ 
 
-https://searchcode.com/
+TCM - https://www.thecybermentor.com/ 
 
-https://dorksearch.com/
+TCM Academy - https://academy.tcm-sec.com/ 
 
-https://usersearch.org/
+Hackers Arise - https://www.hackers-arise.com/welcome 
 
-https://inteltechniques.com/tools/index.html
+Gary Ruddel - https://www.garyruddell.com/ 
 
-https://www.yougetsignal.com/
+Grey Dynamics - https://greydynamics.com/
 
-https://www.spokeo.com/
+Intel Techniques – https://inteltechniques.com 
 
-http://www.lullar.com/
+Intel Techniques Tools - https://inteltechniques.com/tools/index.html 
 
-https://socialblade.com/
+Cyber Detective - https://cybdetective.substack.com/ 
 
-https://exifviewers.com/
+Digital Investigations - https://digitalinvestigations.substack.com/ 
 
-https://intelx.io/
+OSINT Framework - https://osintframework.com/ 
 
-https://archive.org/web/
+Grey Dynamics OSINT guide - https://greydynamics.com/a-guide-to-open-source-intelligence-osint-2/
 
-https://www.heavy.ai/demos/tweetmap
+Intel analyst article - https://christina-lekati.medium.com/the-intelligence-analyst-9ae1f980d389 
 
-https://osintframework.com/
+OSINT Books - https://www.osintteam.com/books/ 
 
-https://www.social-searcher.com/google-social-search/
+More OSINT Books - https://www.aware-online.com/en/osint-books/ 
 
-https://www.babelstreet.com/
+ASINT startme page - https://start.me/p/b5Aow7/asint_collection 
 
-https://www.google.com/advanced_search
+OSINT links startme page - https://start.me/p/q6naJo/osint-links 
 
-https://www2.arccorp.com/
+Ultimate OSINT startme page - https://start.me/p/DPYPMz/the-ultimate-osint-collection
 
-https://www.scraawl.com/
+Aml toolbox startme page - https://start.me/p/rxeRqr/aml-toolbox
 
-https://cipher387.github.io/osint_stuff_tool_collection/
+CTI startme page - https://start.me/p/rxRbpo/cti?locale=en 
 
-https://www.meetup.com/
+Deleteme - https://www.deleteme.com/search-engine-removal/ 
 
-https://www.social-searcher.com/
+### Tools and Platforms
 
-https://followerwonk.com/
+Forensic OSINT - https://www.forensicosint.com/ 
 
-https://www.clearview.ai/
+Hunchly - https://hunch.ly/ 
 
-https://start.me/p/rxeRqr/aml-toolbox
+OSINT Tool collection - https://cipher387.github.io/osint_stuff_tool_collection/
 
-https://cybdetective.substack.com/
+Babel Street - https://www.babelstreet.com/
 
-https://start.me/p/rxRbpo/cti?locale=en
+ARC - https://www2.arccorp.com/ 
 
-https://christina-lekati.medium.com/the-intelligence-analyst-9ae1f980d389
+SCRAAWL - https://www.scraawl.com/ 
 
-https://digitalinvestigations.substack.com/
+Clearview - https://www.clearview.ai/ 
 
-https://socialcatfish.com/
+Shadowdragon - https://shadowdragon.io/ 
 
-https://start.me/p/b5Aow7/asint_collection
-
-https://start.me/p/q6naJo/osint-links
-
-https://www.garyruddell.com/
-
-https://shadowdragon.io/
-
-https://link.myosint.training/mon
-
-https://www.myosint.training/pages/free-resources
-
-https://start.me/p/DPYPMz/the-ultimate-osint-collection
-
-https://www.authentic8.com/osint
-
-https://find.4chan.org/?q=
-
-https://www.aware-online.com/en/osint-books/
-
-https://feedly.com/
-
-https://fotoforensics.com/
-
-https://epieos.com/
-
-https://www.hootsuite.com/
-
-https://web.archive.org/
-
-https://socialbearing.com/
-
-https://tineye.com/
-
-https://images.google.com/
-
-https://yandex.com/
-
-https://yandex.com/images/
-
-https://www.bing.com/images/
-
-https://chatgpt.com/
-
-https://lookups.melissa.com/home/
-
-https://www.spokeo.com/
-
-https://pipl.com/
-
-https://truepeoplesearch.net/free-phone-number-lookup
-
-https://www.familysearch.org/en/united-states/
-
-https://www.beenverified.com/
-
-https://www.peekyou.com/
-
-https://www.deleteme.com/search-engine-removal/
-
-https://4chansearch.com/
-
-https://help.x.com/en/using-x/about-grok
-
-https://icdta.org/
-
-https://greydynamics.com/a-guide-to-open-source-intelligence-osint-2/
-
-https://greydynamics.com/
-
-https://tools.myosint.training/
-
-https://www.deepfind.me/tools
-
-https://r00m101.com/
-
-https://profileimageintel.com/
-
-https://www.osintteam.com/books/
-
-https://www.forensicosint.com/
-
-https://www.osintnewsletter.osint-jobs.com/
-
-https://hunter.io/domain-search
-
-https://phonebook.cz/
-
-https://clearbit.com/resources/tools/connect
-
-https://tools.emailhippo.com/
-
-https://email-checker.net/
-
-https://dehashed.com/
-
-https://haveibeenpwned.com/
-
-https://anonstories.com/
-
-https://inflact.com/
-
-https://themarkup.org/blacklight
-
-https://pagexray.fouanalytics.com/
-
-https://webbreacher.com/
+Authentic8 - https://www.authentic8.com/osint 
 
 https://twiiit.com/
