@@ -32,17 +32,6 @@ This repository is designed to help digital investigators navigate the vast worl
 Contributions welcome!
 
 
-### Working with OSINT Tools
-
-- [breach-parse](https://github.com/hmaverickadams/breach-parse)
-- [Subfinder](https://github.com/projectdiscovery/subfinder)
-- [Assetfinder](https://github.com/tomnomnom/assetfinder)
-- [httprobe](https://github.com/tomnomnom/httprobe)
-- [Amass](https://github.com/OWASP/Amass)
-- [GoWitness](https://github.com/sensepost/gowitness/wiki/Installation)
-
----
-
 ### Additional Resources
 
 - [TraceLabs](https://www.tracelabs.org/)
