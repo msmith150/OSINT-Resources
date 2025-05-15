@@ -1,26 +1,3 @@
-# OSINT CHEAT SHEET
-## Tools & Methods
-
----
-
-- **OSINT CHEAT SHEETS** ![Open Book](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png)
-- **SOCMINT / PEOPLE RELATED** ![Bust in Silhouette](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png)
-- **IMAGES ANALYSIS** ![Identification Card](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png)
-- **GEOINT / IMINT** ![Pushpin](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png)
-- **RECON** ![Magnifying Glass Tilted Right](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png)
-- **INTERNET / SEARCH ENGINES** ![Globe with Meridians](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png)
-- **DEEP / DARK NET** ![Pirate Flag](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png)
-- **PHARMA / DRUG INFORMATION** ![Pill](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pill.png)
-- **CRYPTO / ONCHAIN ANALYSIS** ![Coin](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png)
-- **FINANCIAL** ![Dollar Banknote](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png)
-- **CIPHERS** ![Locked with Key](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png)
-- **ANONYMISATION** ![Footprints](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png)
-- **COMPLETE TOOLS** ![Hammer and Wrench](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png)
-- **TRAINING** ![Brain](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png)
-- **DISCUSSIONS / CHANNELS** ![Incoming Envelope](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png)
-
----
-
 ## OSINT CHEAT SHEETS ![Open Book](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png)
 
 - [OSINT Framework](https://osintframework.com/)
