@@ -31,37 +31,6 @@ This repository is designed to help digital investigators navigate the vast worl
 
 Contributions welcome!
 
-### Social Media OSINT
-
-- [Twitter Advanced Search](https://twitter.com/search-advanced)
-- [Social Bearing](https://socialbearing.com/)
-- [Twitonomy](https://www.twitonomy.com/)
-- [Sleeping Time](http://sleepingtime.org/)
-- [Mentionmapp](https://mentionmapp.com/)
-- [Tweetbeaver](https://tweetbeaver.com/)
-- [Spoonbill.io](http://spoonbill.io/)
-- [Tinfoleak](https://tinfoleak.com/)
-- [TweetDeck](https://tweetdeck.com/)
-- [Sowdust GitHub](https://sowdust.github.io/fb-search/)
-- [IntelligenceX Facebook Search](https://intelx.io/tools?tab=facebook)
-- [Wopita](https://wopita.com/)
-- [Code of a Ninja Instagram Tool](https://codeofaninja.com/tools/find-instagram-user-id/)
-- [InstaDP](https://www.instadp.com/)
-- [ImgInn](https://imginn.com/)
-- [Snapchat Maps](https://map.snapchat.com)
-- [R00m101 (Reddit)](https://r00m101.com/)
-- [Social Blade](https://socialblade.com/)
-- [Tweet Map](https://www.heavy.ai/demos/tweetmap)
-- [Google Social Search](https://www.social-searcher.com/google-social-search/)
-- [Social Searcher](https://www.social-searcher.com/)
-- [Followerwonk](https://followerwonk.com/)
-- [4chan Search](https://4chansearch.com/)
-- [Inflact](https://inflact.com/)
-- [Anonstories](https://anonstories.com/)
-- [Feedly](https://feedly.com/)
-- [Hootsuite](https://www.hootsuite.com/)
-
----
 
 ### Website OSINT
 
