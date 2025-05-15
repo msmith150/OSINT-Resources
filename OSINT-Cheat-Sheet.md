@@ -1,4 +1,4 @@
-## OSINT CHEAT SHEETS ![Open Book](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png)
+## OSINT CHEAT SHEETS 
 
 - [OSINT Framework](https://osintframework.com/)
 - [Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
@@ -19,7 +19,7 @@
 
 ---
 
-## SOCMINT / PEOPLE RELATED ![Bust in Silhouette](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png)
+## SOCMINT / PEOPLE RELATED 
 
 - **SOCMINT**
   - [Ifu (username checker)](https://ifu.app)
