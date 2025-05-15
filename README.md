@@ -31,15 +31,6 @@ This repository is designed to help digital investigators navigate the vast worl
 
 Contributions welcome!
 
-
-### Username OSINT
-
-- [NameChk](https://namechk.com/)
-- [WhatsMyName](https://whatsmyname.app/)
-- [NameCheckup](https://namecheckup.com/)
-
----
-
 ### Phone Numbers
 
 - [TrueCaller](https://www.truecaller.com/)
