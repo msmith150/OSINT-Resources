@@ -31,15 +31,6 @@ This repository is designed to help digital investigators navigate the vast worl
 
 Contributions welcome!
 
-### Phone Numbers
-
-- [TrueCaller](https://www.truecaller.com/)
-- [CallerID Test](https://calleridtest.com/)
-- [Infobel](https://infobel.com/)
-- [Epieos](https://epieos.com/)
-- [Phonebook.cz](https://phonebook.cz/)
-
----
 
 ### People OSINT
 
