@@ -1,413 +1,276 @@
-# Open-Source-Intelligence-Resources
+# Open-Source Intelligence Resources
+
+---
 
 ### General Links
 
-Twitter: https://twitter.com/thecybermentor
+- [Twitter](https://twitter.com/thecybermentor)
+- [Twitch](https://twitch.tv/thecybermentor)
+- [YouTube](https://youtube.com/c/thecybermentor)
+- [Discord](https://tcm-sec.com/discord/)
 
-Twitch: https://twitch.tv/thecybermentor
-
-YouTube: https://youtube.com/c/thecybermentor
-
-Discord: https://tcm-sec.com/discord/
+---
 
 ### Note Keeping
 
-KeepNote: http://keepnote.org/
+- [KeepNote](http://keepnote.org/)
+- [CherryTree](https://www.giuspen.com/cherrytree/)
+- [Joplin](https://joplinapp.org/)
+- [Notion](https://www.notion.so/)
+- [OneNote](https://onenote.com/)
+- [Greenshot](https://getgreenshot.org/)
+- [Flameshot](https://github.com/flameshot-org/flameshot)
 
-CherryTree - https://www.giuspen.com/cherrytree/
-
-Joplin - https://joplinapp.org/
-
-Notion - https://www.notion.so/
-
-OneNote - https://onenote.com/
-
-Greenshot - https://getgreenshot.org/
-
-Flameshot - https://github.com/flameshot-org/flameshot
+---
 
 ### Sock Puppets
 
-Intro to Creating an Effective Sock Puppet (wayback archive): https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/
+- [Intro to Creating an Effective Sock Puppet (Wayback)](https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/)
+- [The Art Of The Sock (Secjuice)](https://www.secjuice.com/the-art-of-the-sock-osint-humint/)
+- [Reddit - Sock Puppet Setup Process](https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/)
+- [Fake Name Generator](https://www.fakenamegenerator.com/)
+- [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
+- [Privacy.com](https://privacy.com/)
 
-The Art Of The Sock - https://www.secjuice.com/the-art-of-the-sock-osint-humint/
-
-My Process for Setting up Anonymous Sock Puppet Accounts(reddit) - https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/
-
-Fake Name Generator - https://www.fakenamegenerator.com/
-
-This Person Does not Exist - https://www.thispersondoesnotexist.com/
-
-Privacy.com - https://privacy.com/
+---
 
 ### Search Engine OSINT
 
-Google - https://www.google.com/
+- [Google](https://www.google.com/)
+- [Google Advanced Search](https://www.google.com/advanced_search)
+- [Google Search Guide (PDF)](http://www.googleguide.com/print/adv_op_ref.pdf)
+- [Bing](https://www.bing.com/)
+- [Bing Search Guide](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/)
+- [Yandex](https://yandex.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [DuckDuckGo Search Guide](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)
+- [Baidu](http://www.baidu.com/)
+- [Search Code](https://searchcode.com/)
+- [Dork Search](https://dorksearch.com/)
+- [UserSearch.org](https://usersearch.org/)
+- [Wayback Machine](https://archive.org/web/)
+- [ChatGPT](https://chatgpt.com/)
+- [Google Gemini](https://gemini.google.com/app)
+- [Claude AI](https://claude.ai/)
+- [Microsoft Copilot](https://copilot.microsoft.com)
+- [Perplexity AI](https://www.perplexity.ai/)
+- [Grok AI](https://grok.com/)
 
-Google Advanced Search - https://www.google.com/advanced_search
-
-Google Search Guide - http://www.googleguide.com/print/adv_op_ref.pdf
-
-Bing - https://www.bing.com/
-
-Bing Search Guide - https://www.bruceclay.com/blog/bing-google-advanced-search-operators/
-
-Yandex - https://yandex.com/
-
-DuckDuckGo - https://duckduckgo.com/
-
-DuckDuckGo Search Guide - https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/
-
-Baidu - http://www.baidu.com/
-
-Search Code - https://searchcode.com/ 
-
-Dork Search - https://dorksearch.com/ 
-
-https://usersearch.org/
-
-Wayback Machine - https://archive.org/web/
-
-ChatGPT - https://chatgpt.com/
-
-Google Gemini - https://gemini.google.com/app
-
-Claude AI - https://claude.ai/
-
-Microsoft Copilot - https://copilot.microsoft.com 
-
-Perplexity AI - https://www.perplexity.ai/ 
-
-Grok AI - https://grok.com/ 
+---
 
 ### Image OSINT
 
-Google Image Search - https://images.google.com
+- [Google Image Search](https://images.google.com)
+- [Yandex Images](https://yandex.com/images/)
+- [TinEye](https://tineye.com)
+- [Bing Images](https://www.bing.com/images/)
+- [FotoForensics](https://fotoforensics.com/)
+- [Profile Picture Tool](https://profileimageintel.com/)
+- [Jimpl](https://jimpl.com/)
+- [Exif Viewers](https://exifviewers.com/)
+- [GeoGuessr](https://www.geoguessr.com)
+- [GeoGuessr Tips and Tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
+- [Geospy AI](https://geospy.ai/)
 
-Yandex - https://yandex.com/images/
-
-TinEye - https://tineye.com
-
-Bing - https://www.bing.com/images/
-
-FotoForensics - https://fotoforensics.com/ 
-
-Profile Picture Tool - https://profileimageintel.com/ 
-
-Jimpl - https://jimpl.com/
-
-Exif Viewers - https://exifviewers.com/ 
-
-GeoGuessr - https://www.geoguessr.com
-
-GeoGuessr - The Top Tips, Tricks and Techniques - https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/
-
-Geospy AI - https://geospy.ai/ 
+---
 
 ### Email OSINT
 
-Hunter.io - https://hunter.io/
+- [Hunter.io](https://hunter.io/)
+- [Phonebook.cz](https://phonebook.cz/)
+- [VoilaNorbert](https://www.voilanorbert.com/)
+- [Email Hippo (Tool 1)](https://tools.verifyemailaddress.io/)
+- [Email Hippo (Tool 2)](https://tools.emailhippo.com/)
+- [Epieos](https://epieos.com/)
+- [Email Checker](https://email-checker.net/validate)
+- [Clearbit Connect](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en)
+- [Clearbit](https://clearbit.com/resources/tools/connect)
+- [IntelligenceX](https://intelx.io/)
 
-Phonebook.cz - https://phonebook.cz/
+---
 
-VoilaNorbert - https://www.voilanorbert.com/
+### Password OSINT
 
-Email Hippo - https://tools.verifyemailaddress.io/
+- [Dehashed](https://dehashed.com/)
+- [WeLeakInfo](https://weleakinfo.to/v2/)
+- [LeakCheck](https://leakcheck.io/)
+- [SnusBase](https://snusbase.com/)
+- [Scylla.sh](https://scylla.sh/)
+- [HaveIBeenPwned](https://haveibeenpwned.com/)
 
-Email Hippo - https://tools.emailhippo.com/
-
-Epieos - https://epieos.com/ 
-
-Email Checker - https://email-checker.net/validate
-
-Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
-
-Clearbit - https://clearbit.com/resources/tools/connect
-
-IntelligenceX - https://intelx.io/ 
-
-### Password OSINT 
-
-Dehashed - https://dehashed.com/
-
-WeLeakInfo - https://weleakinfo.to/v2/
-
-LeakCheck - https://leakcheck.io/
-
-SnusBase - https://snusbase.com/
-
-Scylla.sh - https://scylla.sh/
-
-HaveIBeenPwned - https://haveibeenpwned.com/
+---
 
 ### Username OSINT
 
-NameChk - https://namechk.com/
+- [NameChk](https://namechk.com/)
+- [WhatsMyName](https://whatsmyname.app/)
+- [NameCheckup](https://namecheckup.com/)
 
-WhatsMyName - https://whatsmyname.app/
-
-NameCheckup - https://namecheckup.com/
+---
 
 ### Phone Numbers
 
-Phone Numbers
+- [TrueCaller](https://www.truecaller.com/)
+- [CallerID Test](https://calleridtest.com/)
+- [Infobel](https://infobel.com/)
+- [Epieos](https://epieos.com/)
+- [Phonebook.cz](https://phonebook.cz/)
 
-TrueCaller - https://www.truecaller.com/
-
-CallerID Test - https://calleridtest.com/
-
-Infobel - https://infobel.com/
-
-Epieos - https://epieos.com/ 
-
-Phonebook.cz - https://phonebook.cz/ (need intelx.io login)
+---
 
 ### People OSINT
 
-WhitePages - https://www.whitepages.com/
+- [WhitePages](https://www.whitepages.com/)
+- [TruePeopleSearch](https://www.truepeoplesearch.com/)
+- [FastPeopleSearch](https://www.fastpeoplesearch.com/)
+- [FastBackgroundCheck](https://www.fastbackgroundcheck.com/)
+- [WebMii](https://webmii.com/)
+- [PeekYou](https://peekyou.com/)
+- [411](https://www.411.com/)
+- [Spokeo](https://www.spokeo.com/)
+- [That's Them](https://thatsthem.com/)
+- [Voter Records](https://www.voterrecords.com)
+- [Melissa Lookups](https://lookups.melissa.com/home/)
+- [Pipl](https://pipl.com/)
+- [Family Search](https://www.familysearch.org/en/united-states/)
+- [Been Verified](https://www.beenverified.com/)
+- [Lullar](http://www.lullar.com/)
+- [Social Catfish](https://socialcatfish.com/)
 
-TruePeopleSearch - https://www.truepeoplesearch.com/
-
-FastPeopleSearch - https://www.fastpeoplesearch.com/
-
-FastBackgroundCheck - https://www.fastbackgroundcheck.com/
-
-WebMii - https://webmii.com/
-
-PeekYou - https://peekyou.com/
-
-411 - https://www.411.com/
-
-Spokeo - https://www.spokeo.com/
-
-That's Them - https://thatsthem.com/
-
-Voter Records - https://www.voterrecords.com
-
-TrueCaller - https://www.truecaller.com/
-
-CallerID Test - https://calleridtest.com/
-
-Infobel - https://infobel.com/
-
-Melissa Lookups - https://lookups.melissa.com/home/ 
-
-Pipl - https://pipl.com/ 
-
-Family Search - https://www.familysearch.org/en/united-states/ 
-
-Been Verified - https://www.beenverified.com/ 
-
-Lullar - http://www.lullar.com/
-
-Social Catfish - https://socialcatfish.com/ 
+---
 
 ### Social Media OSINT
 
-Twitter Advanced Search - https://twitter.com/search-advanced
+- [Twitter Advanced Search](https://twitter.com/search-advanced)
+- [Social Bearing](https://socialbearing.com/)
+- [Twitonomy](https://www.twitonomy.com/)
+- [Sleeping Time](http://sleepingtime.org/)
+- [Mentionmapp](https://mentionmapp.com/)
+- [Tweetbeaver](https://tweetbeaver.com/)
+- [Spoonbill.io](http://spoonbill.io/)
+- [Tinfoleak](https://tinfoleak.com/)
+- [TweetDeck](https://tweetdeck.com/)
+- [Sowdust GitHub](https://sowdust.github.io/fb-search/)
+- [IntelligenceX Facebook Search](https://intelx.io/tools?tab=facebook)
+- [Wopita](https://wopita.com/)
+- [Code of a Ninja Instagram Tool](https://codeofaninja.com/tools/find-instagram-user-id/)
+- [InstaDP](https://www.instadp.com/)
+- [ImgInn](https://imginn.com/)
+- [Snapchat Maps](https://map.snapchat.com)
+- [R00m101 (Reddit)](https://r00m101.com/)
+- [Social Blade](https://socialblade.com/)
+- [Tweet Map](https://www.heavy.ai/demos/tweetmap)
+- [Google Social Search](https://www.social-searcher.com/google-social-search/)
+- [Social Searcher](https://www.social-searcher.com/)
+- [Followerwonk](https://followerwonk.com/)
+- [4chan Search](https://4chansearch.com/)
+- [Inflact](https://inflact.com/)
+- [Anonstories](https://anonstories.com/)
+- [Feedly](https://feedly.com/)
+- [Hootsuite](https://www.hootsuite.com/)
 
-Social Bearing - https://socialbearing.com/
-
-Twitonomy - https://www.twitonomy.com/
-
-Sleeping Time - http://sleepingtime.org/
-
-Mentionmapp - https://mentionmapp.com/
-
-Tweetbeaver - https://tweetbeaver.com/
-
-Spoonbill.io - http://spoonbill.io/
-
-Tinfoleak - https://tinfoleak.com/
-
-TweetDeck - https://tweetdeck.com/
-
-Sowdust Github - https://sowdust.github.io/fb-search/
-
-IntelligenceX Facebook Search - https://intelx.io/tools?tab=facebook
-
-Wopita - https://wopita.com/
-
-Code of a Ninja - https://codeofaninja.com/tools/find-instagram-user-id/
-
-InstaDP - https://www.instadp.com/
-
-ImgInn - https://imginn.com/
-
-Snapchat Maps - https://map.snapchat.com
-
-R00m101 (Reddit) - https://r00m101.com/ 
-
-Social Blade - https://socialblade.com/ 
-
-Tweet Map - https://www.heavy.ai/demos/tweetmap 
-
-Google Social Search - https://www.social-searcher.com/google-social-search/ 
-
-Social Searcher - https://www.social-searcher.com/ 
-
-Followerwonk - https://followerwonk.com/ 
-
-4chan search - https://4chansearch.com/ 
-
-Inflact - https://inflact.com/ 
-
-Anonstories - https://anonstories.com/ 
-
-Feedly - https://feedly.com/
-
-Hootsuite - https://www.hootsuite.com/
+---
 
 ### Website OSINT
 
-BuiltWith - https://builtwith.com/
+- [BuiltWith](https://builtwith.com/)
+- [Domain Dossier](https://centralops.net/co/)
+- [DNSlytics](https://dnslytics.com/reverse-ip)
+- [SpyOnWeb](https://spyonweb.com/)
+- [VirusTotal](https://www.virustotal.com/)
+- [Visual Ping](https://visualping.io/)
+- [Back Link Watch](http://backlinkwatch.com/index.php)
+- [View DNS](https://viewdns.info/)
+- [Pentest-Tools Subdomain Finder](https://pentest-tools.com/information-gathering/find-subdomains-of-domain#)
+- [Spyse](https://spyse.com/)
+- [crt.sh](https://crt.sh/)
+- [Shodan](https://shodan.io)
+- [Wayback Machine](https://web.archive.org/)
+- [Page X-ray](https://pagexray.com/)
+- [Blacklight](https://themarkup.org/blacklight)
+- [Twiiit](https://twiiit.com/)
+- [YouGetSignal](https://www.yougetsignal.com/)
+- [IntelligenceX](https://intelx.io/)
+- [Web Reacher](https://webbreacher.com/)
 
-Domain Dossier - https://centralops.net/co/
-
-DNSlytics - https://dnslytics.com/reverse-ip
-
-SpyOnWeb - https://spyonweb.com/
-
-Virus Total - https://www.virustotal.com/
-
-Visual Ping - https://visualping.io/
-
-Back Link Watch - http://backlinkwatch.com/index.php
-
-View DNS - https://viewdns.info/
-
-Pentest-Tools Subdomain Finder - https://pentest-tools.com/information-gathering/find-subdomains-of-domain#
-
-Spyse - https://spyse.com/
-
-crt.sh - https://crt.sh/
-
-Shodan - https://shodan.io
-
-Wayback Machine - https://web.archive.org/
-
-Page X-ray - https://pagexray.com/
-
-Blacklight - https://themarkup.org/blacklight 
-
-Twiiit - https://twiiit.com/
-
-you get signal - https://www.yougetsignal.com/ 
-
-IntelligenceX - https://intelx.io/ 
-
-Web Reacher - https://webbreacher.com/
+---
 
 ### Business OSINT
 
-Open Corporates - https://opencorporates.com/
+- [Open Corporates](https://opencorporates.com/)
+- [AI HIT](https://www.aihitdata.com/)
 
-AI HIT - https://www.aihitdata.com/
+---
 
 ### Wireless OSINT
 
-WiGLE - https://wigle.net/
+- [WiGLE](https://wigle.net/)
+
+---
 
 ### Building an OSINT Lab
 
-VMWare Workstation Player - https://www.vmware.com/ca/products/workstation-player/workstation-player-evaluation.html
+- [VMWare Workstation Player](https://www.vmware.com/ca/products/workstation-player/workstation-player-evaluation.html)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [TraceLabs OSINT VM](https://www.tracelabs.org/initiatives/osint-vm)
+- [TraceLabs OSINT VM Installation Guide](https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf)
 
-VirtualBox - https://www.virtualbox.org/wiki/Downloads
-
-TraceLabs OSINT VM - https://www.tracelabs.org/initiatives/osint-vm
-
-TraceLabs OSINT VM Installation Guide - https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf
+---
 
 ### Working with OSINT Tools
 
-breach-parse - https://github.com/hmaverickadams/breach-parse
+- [breach-parse](https://github.com/hmaverickadams/breach-parse)
+- [Subfinder](https://github.com/projectdiscovery/subfinder)
+- [Assetfinder](https://github.com/tomnomnom/assetfinder)
+- [httprobe](https://github.com/tomnomnom/httprobe)
+- [Amass](https://github.com/OWASP/Amass)
+- [GoWitness](https://github.com/sensepost/gowitness/wiki/Installation)
 
-Subfinder - https://github.com/projectdiscovery/subfinder
-
-Assetfinder - https://github.com/tomnomnom/assetfinder
-
-httprobe - https://github.com/tomnomnom/httprobe
-
-Amass - https://github.com/OWASP/Amass
-
-GoWitness - https://github.com/sensepost/gowitness/wiki/Installation
+---
 
 ### Additional Resources
 
-TraceLabs - https://www.tracelabs.org/
+- [TraceLabs](https://www.tracelabs.org/)
+- [Innocent Lives Foundation](https://www.innocentlivesfoundation.org/)
+- [Alethe Denis](https://twitter.com/AletheDenis)
+- [Joe Gray](https://twitter.com/C_3PJoe)
+- [ICDTA](https://icdta.org/)
+- [My OSINT Training](https://tools.myosint.training/)
+- [My OSINT Training Resources](https://www.myosint.training/pages/free-resources)
+- [My OSINT Training Newsletter](https://www.osintnewsletter.osint-jobs.com/)
+- [TCM](https://www.thecybermentor.com/)
+- [TCM Academy](https://academy.tcm-sec.com/)
+- [Hackers Arise](https://www.hackers-arise.com/welcome)
+- [Gary Ruddell](https://www.garyruddell.com/)
+- [Grey Dynamics](https://greydynamics.com/)
+- [Intel Techniques](https://inteltechniques.com)
+- [Intel Techniques Tools](https://inteltechniques.com/tools/index.html)
+- [Cyber Detective Substack](https://cybdetective.substack.com/)
+- [Digital Investigations Substack](https://digitalinvestigations.substack.com/)
+- [OSINT Framework](https://osintframework.com/)
+- [Grey Dynamics OSINT Guide](https://greydynamics.com/a-guide-to-open-source-intelligence-osint-2/)
+- [The Intelligence Analyst (Medium)](https://christina-lekati.medium.com/the-intelligence-analyst-9ae1f980d389)
+- [OSINT Books](https://www.osintteam.com/books/)
+- [More OSINT Books](https://www.aware-online.com/en/osint-books/)
+- [ASINT Start.me Page](https://start.me/p/b5Aow7/asint_collection)
+- [OSINT Links Start.me](https://start.me/p/q6naJo/osint-links)
+- [Ultimate OSINT Start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+- [AML Toolbox Start.me](https://start.me/p/rxeRqr/aml-toolbox)
+- [CTI Start.me](https://start.me/p/rxRbpo/cti?locale=en)
+- [DeleteMe - Search Engine Removal](https://www.deleteme.com/search-engine-removal/)
 
-Innocent Lives Foundation - https://www.innocentlivesfoundation.org/
-
-Alethe Denis - https://twitter.com/AletheDenis
-
-Joe Gray - https://twitter.com/C_3PJoe
-
-ICDTA - https://icdta.org/ 
-
-My OSINT Training - https://tools.myosint.training/
-
-My OSINT Training Resources - https://www.myosint.training/pages/free-resources 
-
-My OSINT Training Newsletter - https://www.osintnewsletter.osint-jobs.com/ 
-
-TCM - https://www.thecybermentor.com/ 
-
-TCM Academy - https://academy.tcm-sec.com/ 
-
-Hackers Arise - https://www.hackers-arise.com/welcome 
-
-Gary Ruddel - https://www.garyruddell.com/ 
-
-Grey Dynamics - https://greydynamics.com/
-
-Intel Techniques – https://inteltechniques.com 
-
-Intel Techniques Tools - https://inteltechniques.com/tools/index.html 
-
-Cyber Detective - https://cybdetective.substack.com/ 
-
-Digital Investigations - https://digitalinvestigations.substack.com/ 
-
-OSINT Framework - https://osintframework.com/ 
-
-Grey Dynamics OSINT guide - https://greydynamics.com/a-guide-to-open-source-intelligence-osint-2/
-
-Intel analyst article - https://christina-lekati.medium.com/the-intelligence-analyst-9ae1f980d389 
-
-OSINT Books - https://www.osintteam.com/books/ 
-
-More OSINT Books - https://www.aware-online.com/en/osint-books/ 
-
-ASINT startme page - https://start.me/p/b5Aow7/asint_collection 
-
-OSINT links startme page - https://start.me/p/q6naJo/osint-links 
-
-Ultimate OSINT startme page - https://start.me/p/DPYPMz/the-ultimate-osint-collection
-
-Aml toolbox startme page - https://start.me/p/rxeRqr/aml-toolbox
-
-CTI startme page - https://start.me/p/rxRbpo/cti?locale=en 
-
-Deleteme - https://www.deleteme.com/search-engine-removal/ 
+---
 
 ### Tools and Platforms
 
-Forensic OSINT - https://www.forensicosint.com/ 
+- [Forensic OSINT](https://www.forensicosint.com/)
+- [Hunchly](https://hunch.ly/)
+- [Cipher387 OSINT Tool Collection](https://cipher387.github.io/osint_stuff_tool_collection/)
+- [Babel Street](https://www.babelstreet.com/)
+- [ARC](https://www2.arccorp.com/)
+- [SCRAAWL](https://www.scraawl.com/)
+- [Clearview](https://www.clearview.ai/)
+- [Shadowdragon](https://shadowdragon.io/)
+- [Authentic8](https://www.authentic8.com/osint)
+- [Twiiit](https://twiiit.com/)
 
-Hunchly - https://hunch.ly/ 
-
-OSINT Tool collection - https://cipher387.github.io/osint_stuff_tool_collection/
-
-Babel Street - https://www.babelstreet.com/
-
-ARC - https://www2.arccorp.com/ 
-
-SCRAAWL - https://www.scraawl.com/ 
-
-Clearview - https://www.clearview.ai/ 
-
-Shadowdragon - https://shadowdragon.io/ 
-
-Authentic8 - https://www.authentic8.com/osint 
-
-Twiiit - https://twiiit.com/
