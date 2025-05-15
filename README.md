@@ -31,18 +31,6 @@ This repository is designed to help digital investigators navigate the vast worl
 
 Contributions welcome!
 
-### Note Keeping
-
-- [KeepNote](http://keepnote.org/)
-- [CherryTree](https://www.giuspen.com/cherrytree/)
-- [Joplin](https://joplinapp.org/)
-- [Notion](https://www.notion.so/)
-- [OneNote](https://onenote.com/)
-- [Greenshot](https://getgreenshot.org/)
-- [Flameshot](https://github.com/flameshot-org/flameshot)
-
----
-
 ### Sock Puppets
 
 - [Intro to Creating an Effective Sock Puppet (Wayback)](https://web.archive.org/web/20210307173507/https://jakecreps.com/sock-puppets/)
