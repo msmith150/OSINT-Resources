@@ -1,17 +1,42 @@
-Mullvad VPN
-KeePassXC
-Bitwarden
-VeraCrypt
-BleachBit
-Cherry Tree
-Eternal Zero
-Quick Hash
-scrcpy
-Flameshot
-VocoScreen
-HTTTrack
-Hunchly
-Normal Cap
-jExifTool
-MetaData Cleaner
-Maltego
+# OSINT Investigative Tools
+
+### VPNs
+
+Mullvad VPN: https://mullvad.net/ 
+
+### Password Managers
+
+KeePassXC: https://keepassxc.org/
+Bitwarden: https://bitwarden.com/
+
+### Encryption
+VeraCrypt: https://veracrypt.eu/en/
+BleachBit: https://www.bleachbit.org/
+
+### Notetaking
+Cherry Tree: https://cherrytree-for-windows.en.lo4d.com/windows
+
+### Hashing Tools for Evidence/Chain of Custody
+Quick Hash: https://www.quickhash-gui.org/ 
+
+### Phone Screen Monitoring
+scrcpy: https://scrcpy.org/
+
+### Screenshots and recording
+Flameshot: https://flameshot.org/
+VocoScreen: https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html
+
+### Website Copier
+HTTTrack: https://www.httrack.com/
+
+### Investigative Extensions/Software
+Hunchly: https://hunch.ly/
+Maltego: https://www.maltego.com/
+Analysts Notebook: https://support.i2group.com/s/analysts-notebook 
+
+### OCR Tools
+Norm Cap: https://dynobo.github.io/normcap/
+
+Metadata Tools:
+MetaData Cleaner: https://metacleaner.com/
+jExifTool: https://hvdwolf.github.io/jExifToolGUI/
