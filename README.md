@@ -32,13 +32,6 @@ This repository is designed to help digital investigators navigate the vast worl
 Contributions welcome!
 
 
-### Business OSINT
-
-- [Open Corporates](https://opencorporates.com/)
-- [AI HIT](https://www.aihitdata.com/)
-
----
-
 ### Wireless OSINT
 
 - [WiGLE](https://wigle.net/)
