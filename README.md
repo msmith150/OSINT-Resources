@@ -31,25 +31,6 @@ This repository is designed to help digital investigators navigate the vast worl
 
 Contributions welcome!
 
-
-
-
-
-
-
-
-
----
-
-### General Links
-
-- [Twitter](https://twitter.com/thecybermentor)
-- [Twitch](https://twitch.tv/thecybermentor)
-- [YouTube](https://youtube.com/c/thecybermentor)
-- [Discord](https://tcm-sec.com/discord/)
-
----
-
 ### Note Keeping
 
 - [KeepNote](http://keepnote.org/)
