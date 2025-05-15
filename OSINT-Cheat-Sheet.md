@@ -239,6 +239,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="Magnifying Glass Tilted Right" width="25" height="25" />&ensp;RECON
 
 ## INFORMATION GATHERING
+
 - **Shodan**: [https://www.shodan.io/](https://www.shodan.io/)
 - **ZoomEye**: [https://www.zoomeye.org](https://www.zoomeye.org)
 - **AnyRun**: [https://intelligence.any.run/](https://intelligence.any.run/)
@@ -262,6 +263,7 @@
 - **BGPView**: [https://bgpview.io/](https://bgpview.io/)
 - **IPToolBox**: [https://www.ipaddressguide.com/](https://www.ipaddressguide.com/)
 - **ThreatIntelligence**: [https://threatintelligenceplatform.com/](https://threatintelligenceplatform.com/)
+
 
 ## SCANNERS
 - **DracNMAP (gathering information with nmap help)**: [https://github.com/Screetsec/Dracnmap](https://github.com/Screetsec/Dracnmap)
