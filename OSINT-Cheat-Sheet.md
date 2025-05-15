@@ -1,35 +1,29 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:080707,50:1c1c1c,100:080707)
 
-<div align="center">
-  <h1><i>OSINT CHEAT SHEET</i></h1>
-  <i>Tools & Methods</i>
-</div>
+# OSINT CHEAT SHEET
+## Tools & Methods
 
-<br><br>
+---
 
-<hr>
-<div align="left">
-  - ![Open Book](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png) **OSINT CHEAT SHEETS**
-  - ![Bust in Silhouette](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png) **SOCMINT / PEOPLE RELATED**
-  - ![Identification Card](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png) **IMAGES ANALYSIS**
-  - ![Pushpin](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png) **GEOINT / IMINT**
-  - ![Magnifying Glass Tilted Right](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png) **RECON**
-  - ![Globe with Meridians](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png) **INTERNET / SEARCH ENGINES**
-  - ![Pirate Flag](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png) **DEEP / DARK NET**
-  - ![Pill](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pill.png) **PHARMA / DRUG INFORMATION**
-  - ![Coin](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png) **CRYPTO / ONCHAIN ANALYSIS**
-  - ![Dollar Banknote](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png) **FINANCIAL**
-  - ![Locked with Key](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png) **CIPHERS**
-  - ![Footprints](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png) **ANONYMISATION**
-  - ![Hammer and Wrench](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png) **COMPLETE TOOLS**
-  - ![Brain](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png) **TRAINING**
-  - ![Incoming Envelope](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png) **DISCUSSIONS / CHANNELS**
-</div>
-<hr>
+- **OSINT CHEAT SHEETS** ![Open Book](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png)
+- **SOCMINT / PEOPLE RELATED** ![Bust in Silhouette](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png)
+- **IMAGES ANALYSIS** ![Identification Card](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png)
+- **GEOINT / IMINT** ![Pushpin](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png)
+- **RECON** ![Magnifying Glass Tilted Right](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png)
+- **INTERNET / SEARCH ENGINES** ![Globe with Meridians](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png)
+- **DEEP / DARK NET** ![Pirate Flag](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png)
+- **PHARMA / DRUG INFORMATION** ![Pill](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pill.png)
+- **CRYPTO / ONCHAIN ANALYSIS** ![Coin](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png)
+- **FINANCIAL** ![Dollar Banknote](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dollar%20Banknote.png)
+- **CIPHERS** ![Locked with Key](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png)
+- **ANONYMISATION** ![Footprints](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png)
+- **COMPLETE TOOLS** ![Hammer and Wrench](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png)
+- **TRAINING** ![Brain](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png)
+- **DISCUSSIONS / CHANNELS** ![Incoming Envelope](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png)
 
-<br>
+---
 
-## ![Open Book](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png) OSINT CHEAT SHEETS
+## OSINT CHEAT SHEETS ![Open Book](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png)
 
 - [OSINT Framework](https://osintframework.com/)
 - [Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
@@ -48,9 +42,9 @@
 - [HackYourMom (OSINT ressources)](https://hackyourmom.com/en/osvita/knygy-osint/)
 - [IntelTechniques (OSINT ressources)](https://inteltechniques.com/book1.html)
 
-<br>
+---
 
-## ![Bust in Silhouette](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png) SOCMINT / PEOPLE RELATED
+## SOCMINT / PEOPLE RELATED ![Bust in Silhouette](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png)
 
 - **SOCMINT**
   - [Ifu (username checker)](https://ifu.app)
@@ -83,6 +77,7 @@
   - [Instant username (username checker)](https://instantusername.com)
   - [Find American people complete info](https://www.zabasearch.com/)
   - [Find people with name, Gmail, username](https://com.lullar.com/)
+
 
 - **BREACH HUNTERS**
   - [h8mail (mails and passwords breach hunter)](https://github.com/khast3x/h8mail)
