@@ -31,28 +31,6 @@ This repository is designed to help digital investigators navigate the vast worl
 
 Contributions welcome!
 
-
-### People OSINT
-
-- [WhitePages](https://www.whitepages.com/)
-- [TruePeopleSearch](https://www.truepeoplesearch.com/)
-- [FastPeopleSearch](https://www.fastpeoplesearch.com/)
-- [FastBackgroundCheck](https://www.fastbackgroundcheck.com/)
-- [WebMii](https://webmii.com/)
-- [PeekYou](https://peekyou.com/)
-- [411](https://www.411.com/)
-- [Spokeo](https://www.spokeo.com/)
-- [That's Them](https://thatsthem.com/)
-- [Voter Records](https://www.voterrecords.com)
-- [Melissa Lookups](https://lookups.melissa.com/home/)
-- [Pipl](https://pipl.com/)
-- [Family Search](https://www.familysearch.org/en/united-states/)
-- [Been Verified](https://www.beenverified.com/)
-- [Lullar](http://www.lullar.com/)
-- [Social Catfish](https://socialcatfish.com/)
-
----
-
 ### Social Media OSINT
 
 - [Twitter Advanced Search](https://twitter.com/search-advanced)
