@@ -32,12 +32,6 @@ This repository is designed to help digital investigators navigate the vast worl
 Contributions welcome!
 
 
-### Wireless OSINT
-
-- [WiGLE](https://wigle.net/)
-
----
-
 ### Building an OSINT Lab
 
 - [VMWare Workstation Player](https://www.vmware.com/ca/products/workstation-player/workstation-player-evaluation.html)
