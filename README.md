@@ -32,33 +32,6 @@ This repository is designed to help digital investigators navigate the vast worl
 Contributions welcome!
 
 
-
----
-
-### Search Engine OSINT
-
-- [Google](https://www.google.com/)
-- [Google Advanced Search](https://www.google.com/advanced_search)
-- [Google Search Guide (PDF)](http://www.googleguide.com/print/adv_op_ref.pdf)
-- [Bing](https://www.bing.com/)
-- [Bing Search Guide](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/)
-- [Yandex](https://yandex.com/)
-- [DuckDuckGo](https://duckduckgo.com/)
-- [DuckDuckGo Search Guide](https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/)
-- [Baidu](http://www.baidu.com/)
-- [Search Code](https://searchcode.com/)
-- [Dork Search](https://dorksearch.com/)
-- [UserSearch.org](https://usersearch.org/)
-- [Wayback Machine](https://archive.org/web/)
-- [ChatGPT](https://chatgpt.com/)
-- [Google Gemini](https://gemini.google.com/app)
-- [Claude AI](https://claude.ai/)
-- [Microsoft Copilot](https://copilot.microsoft.com)
-- [Perplexity AI](https://www.perplexity.ai/)
-- [Grok AI](https://grok.com/)
-
----
-
 ### Image OSINT
 
 - [Google Image Search](https://images.google.com)
