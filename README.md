@@ -32,30 +32,6 @@ This repository is designed to help digital investigators navigate the vast worl
 Contributions welcome!
 
 
-### Website OSINT
-
-- [BuiltWith](https://builtwith.com/)
-- [Domain Dossier](https://centralops.net/co/)
-- [DNSlytics](https://dnslytics.com/reverse-ip)
-- [SpyOnWeb](https://spyonweb.com/)
-- [VirusTotal](https://www.virustotal.com/)
-- [Visual Ping](https://visualping.io/)
-- [Back Link Watch](http://backlinkwatch.com/index.php)
-- [View DNS](https://viewdns.info/)
-- [Pentest-Tools Subdomain Finder](https://pentest-tools.com/information-gathering/find-subdomains-of-domain#)
-- [Spyse](https://spyse.com/)
-- [crt.sh](https://crt.sh/)
-- [Shodan](https://shodan.io)
-- [Wayback Machine](https://web.archive.org/)
-- [Page X-ray](https://pagexray.com/)
-- [Blacklight](https://themarkup.org/blacklight)
-- [Twiiit](https://twiiit.com/)
-- [YouGetSignal](https://www.yougetsignal.com/)
-- [IntelligenceX](https://intelx.io/)
-- [Web Reacher](https://webbreacher.com/)
-
----
-
 ### Business OSINT
 
 - [Open Corporates](https://opencorporates.com/)
