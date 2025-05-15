@@ -18,7 +18,7 @@ A curated list of OSINT tools, platforms, and guides for investigators, analysts
 - [Website OSINT](./website-osint.md)
 - [Business OSINT](./business-osint.md)
 - [Wireless OSINT](./wireless-osint.md)
-- [Darkweb Resources](./wireless-osint.md)
+- [Darkweb Resources](./Darkweb.md)
 - [Building an OSINT Lab](./osint-lab.md)
 - [Working with OSINT Tools](./osint-tools.md)
 - [Additional Resources](./additional-resources.md)
