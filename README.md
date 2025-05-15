@@ -32,17 +32,6 @@ This repository is designed to help digital investigators navigate the vast worl
 Contributions welcome!
 
 
-### Password OSINT
-
-- [Dehashed](https://dehashed.com/)
-- [WeLeakInfo](https://weleakinfo.to/v2/)
-- [LeakCheck](https://leakcheck.io/)
-- [SnusBase](https://snusbase.com/)
-- [Scylla.sh](https://scylla.sh/)
-- [HaveIBeenPwned](https://haveibeenpwned.com/)
-
----
-
 ### Username OSINT
 
 - [NameChk](https://namechk.com/)
