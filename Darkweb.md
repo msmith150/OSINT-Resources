@@ -85,3 +85,15 @@
 - [Tor Node List](https://www.dan.me.uk/tornodes)
 - [Tor Project](https://www.torproject.org)
 - [Tor Stack Exchange](https://tor.stackexchange.com)
+
+
+### Tor Alternatives
+
+- [Commotion](https://commotionwireless.net)
+- [Freenet](https://freenetproject.org/index.html)
+- [GNUnet](https://gnunet.org)
+- [Hyperboria](http://hyperboria.net)
+- [I2P](https://geti2p.net/en)
+- [Panoramix](https://panoramix-project.eu/software)
+- [whonix](https://www.whonix.org)
+- [Zeronet](https://zeronet.io)
