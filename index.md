@@ -3,8 +3,6 @@ title: Open-Source Intelligence (OSINT) Resources
 theme: jekyll-theme-cayman
 ---
 
-# Open-Source Intelligence (OSINT) Resources
-
 A curated list of OSINT tools, platforms, and guides for investigators, analysts, and researchers.
 
 ## 📚 Table of Contents
