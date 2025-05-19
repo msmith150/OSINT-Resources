@@ -34,6 +34,13 @@
 
 ---
 
+### Android Emulators
+
+[Blue Stacks](https://www.bluestacks.com/)
+[Nox](https://www.bignox.com/): Developed in China.  Use at your own risk. 
+
+---
+
 ### Phone Screen Monitoring
 
 - [scrcpy](https://scrcpy.org/)
