@@ -30,5 +30,4 @@ A curated list of OSINT tools, platforms, and guides for investigators, analysts
 
 This repository is designed to help digital investigators navigate the vast world of open-source intelligence tools and techniques.
 
-Contributions welcome!
 
