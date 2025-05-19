@@ -22,6 +22,15 @@
 
 ---
 
+### Secure Messaging Apps
+
+- [Tox Chat](https://tox.chat/) 
+- [Session](https://getsession.org/)
+- [Matrix](https://matrix.org/)
+- [Privi](https://about.pri.vi/)
+  
+---
+
 ### Notetaking
 
 - [Cherry Tree](https://cherrytree-for-windows.en.lo4d.com/windows)
