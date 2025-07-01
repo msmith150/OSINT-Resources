@@ -43,9 +43,10 @@
 
 ---
 
-### Android Emulators
+### Cell Phone Emulators
 
 - [Blue Stacks](https://www.bluestacks.com/)
+- [Appetize.io](https://appetize.io/)
 - [Nox](https://www.bignox.com/): Developed in China.  Use at your own risk. 
 
 ---
@@ -74,6 +75,10 @@
 - [Hunchly](https://hunch.ly/)
 - [Maltego](https://www.maltego.com/)
 - [Analyst's Notebook](https://support.i2group.com/s/analysts-notebook)
+- [SingleFile](https://www.getsinglefile.com/)
+- [Forensic OSINT](https://www.forensicosint.com/)
+- [Nimbus Screenshot & Screen Video Recorder](https://nimbusweb.me/screenshot/)
+- [GoFullPage](https://gofullpage.com/)
 
 ---
 
