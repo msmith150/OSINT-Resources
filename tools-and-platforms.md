@@ -79,6 +79,9 @@
 - [Forensic OSINT](https://www.forensicosint.com/)
 - [Nimbus Screenshot & Screen Video Recorder](https://nimbusweb.me/screenshot/)
 - [GoFullPage](https://gofullpage.com/)
+- [Download Star](https://addons.mozilla.org/en-US/firefox/addon/download-star/)
+- [DownloadThemAll!](https://www.downthemall.net/)
+- [Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US)
 
 ---
 
