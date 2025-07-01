@@ -61,6 +61,7 @@
 
 - [Flameshot](https://flameshot.org/)
 - [VocoScreen](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
+- [Open Broadcast Studio](https://obsproject.com/)
 
 ---
 
