@@ -16,6 +16,7 @@
 - [Code of a Ninja Instagram Tool](https://codeofaninja.com/tools/find-instagram-user-id/)
 - [InstaDP](https://www.instadp.com/)
 - [ImgInn](https://imginn.com/)
+- [IGDataHub](https://igdatahub.com/)
 - [Snapchat Maps](https://map.snapchat.com)
 - [R00m101 (Reddit)](https://r00m101.com/)
 - [Social Blade](https://socialblade.com/)
